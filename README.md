@@ -1,3 +1,5 @@
 # HEAANBOOT
 
-HEAANBOOT is now in https://github.com/kimandrik/HEAAN/releases version 1.1
+The code is implementation for Eurocrypt2018 paper.
+
+For current version of HEAAN please visit https://github.com/snucrypto/HEAAN
